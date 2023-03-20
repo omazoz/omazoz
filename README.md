@@ -4,7 +4,7 @@
 
 ### Hi There 👋
 ### Ouuuum is here 👩‍💻
-
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=omazoz&label=Profile%20views&color=0e75b6&style=flat" alt="omazoz" /> </p>
 Hi there!  I am a 💻 23 year old <b>  Web Developer 💻 <b/>
 
 
