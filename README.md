@@ -2,7 +2,7 @@
   <a href="https://github.com/omazoz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=600&height=100&lines=Hi i'm Oumayma mazoz 🙋‍♀..."></a>
   
 
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=omazoz&label=Profile%20views&color=0e75b6&style=flat" alt="omazoz" /> </p>
+  
 
 ### Hi There 👋
 
