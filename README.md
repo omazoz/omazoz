@@ -3,7 +3,7 @@
   
 
 ### Hi There 👋
-### Ouuuum is here
+### Ouuuum is here 👩‍💻
 
 Hi there!  I am a 💻 23 year old <b>  Web Developer 💻 <b/>
 
@@ -29,3 +29,10 @@ Hi there!  I am a 💻 23 year old <b>  Web Developer 💻 <b/>
 <a href="https://github.com/omazoz?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omazoz&line_height=40&show_icons=true&theme=dark">
 </a>
+
+
+## Social Networks 😎
+
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&link=https://www.linkedin.com/in/oumayma-mazoz-2b4126228/)](https://www.linkedin.com/in/oumayma-mazoz-2b4126228/)
+- [![Twitter](https://img.shields.io/badge/-Twitter-FFFFFF?style=flat&logo=twitter&link=https://twitter.com/oumie201)](https://twitter.com/oumie201)
+
