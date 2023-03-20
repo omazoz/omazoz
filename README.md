@@ -4,11 +4,11 @@
 
   
 
-### Hi There 👋
 
-### Ouuuum is here 👩‍💻
- 
 
+### Omazoz is here... 👩‍💻
+ <br/>
+  
 - 👋 Hi there!  I am a 💻 23 year old <b>  Web Developer 💻 <b/>
 - 👀 I’m UX/UI designer 
 - 🌱 I’m currently studying Software engineering at [ALX Africa](https://www.alxafrica.com/).
@@ -29,8 +29,8 @@
 
 
 
-
-
+## 📈 My Github status
+<br/>
 
 
 <a href="https://github.com/omazoz?tab=repositories">
