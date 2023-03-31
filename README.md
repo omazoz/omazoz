@@ -35,10 +35,11 @@
 
 
 <a href="https://github.com/omazoz?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omazoz&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omazoz&theme=radical"/>
 </a>
 <a href="https://github.com/omazoz?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=omazoz&line_height=40&show_icons=true&theme=dark">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=omazoz&line_height=40&show_icons=true&theme=radical">
 </a>
+
 
 
