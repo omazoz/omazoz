@@ -9,10 +9,11 @@
 ## Omazoz is here... 👩‍💻
  <br/>
   
-- 👋 <b> Hi there i am a 💻 22 year old  Web Developer 💻 <b/>
+- 👋 <b> Hi there i am a 💻 22 yo  Web Developer 💻 <b/>
 - 👀 I’m UX/UI designer 
 - ✳️ I’m  a former student at  [1337 school](https://1337.ma/en/).
 - 🌱 I’m currently studying Software engineering at [ALX Africa](https://www.alxafrica.com/).
+- 🧚‍♀️ I'm a learning ambassador at ALX_africa ( Leadership of #cohort_northafrica14 )
 - 💞️ I’m looking to collaborate on full stack project 
 - 📫 How to reach me  : 
   
