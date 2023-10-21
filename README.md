@@ -7,12 +7,7 @@
 
 
 ## Omazoz is here... 👩‍💻
- <br/>
 
-##  My Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,git,mysql,nginx,linux,bash,figma,github,vscode)](https://skillicons.dev)
-
----
  <br/>
   
 - 👋 <b> Hi there i am a 💻 22 yo  Web Developer 💻 <b/>
@@ -32,7 +27,12 @@
 
 
 
+ <br/>
 
+##  My Skills
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,git,mysql,nginx,linux,bash,figma,github,vscode)](https://skillicons.dev)
+
+---
 
 
 
