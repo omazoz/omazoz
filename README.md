@@ -8,8 +8,8 @@
 
 ## Omazoz is here... 👩‍💻
  <br/>
-## Skills
 
+##  My Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,git,mysql,nginx,linux,bash,figma,github,vscode)](https://skillicons.dev)
 
 ---
