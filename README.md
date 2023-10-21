@@ -10,7 +10,7 @@
  <br/>
  ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,git,jquery,mysql,nginx,linux,bash,discord,figma,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,git,mysql,nginx,linux,bash,discord,figma,github,vscode)](https://skillicons.dev)
 
 ---
  <br/>
