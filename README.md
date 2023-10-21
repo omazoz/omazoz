@@ -8,6 +8,12 @@
 
 ## Omazoz is here... 👩‍💻
  <br/>
+ ## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,git,jquery,mysql,nginx,linux,bash,discord,figma,github,vscode)](https://skillicons.dev)
+
+---
+ <br/>
   
 - 👋 <b> Hi there i am a 💻 22 yo  Web Developer 💻 <b/>
 - 👀 I’m UX/UI designer 
