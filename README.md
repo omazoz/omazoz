@@ -45,8 +45,5 @@
 </a>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omazoz&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omazoz&line_height=40&theme=radical)
-
 
 
