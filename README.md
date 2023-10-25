@@ -44,5 +44,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omazoz&line_height=40&show_icons=true&theme=radical">
 </a>
 
+<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omazoz&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omazoz&theme=radical)
+<br>
 
 
