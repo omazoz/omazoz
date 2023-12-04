@@ -9,9 +9,10 @@
 - 👋 <b> Hi there i am a 💻 22 yo  Web Developer 💻 <b/>
 - 👀 I’m UX/UI designer 
 - ✳️ I’m  a former student of  [1337 school](https://1337.ma/en/).
+- 💞️ I'm  a former Mentor of GSSoc'23
 - 🌱 I’m currently studying Software engineering at [ALX Africa](https://www.alxafrica.com/).
 - 🧚‍♀️ I'm a learning ambassador at ALX_africa ( Leadership of #cohort_northafrica14 )
-- 💞️ I’m looking to collaborate on full stack project 
+
 - 📫 How to reach me  : 
   
      - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&link=https://www.linkedin.com/in/oumayma-mazoz-2b4126228/)](https://www.linkedin.com/in/oumayma-mazoz-2b4126228/)
